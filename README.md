@@ -1,4 +1,4 @@
-# Subway Surfers
+# Rush Kerala
 
 ## Controls
 - Left/Right Arrow: To move left and right
